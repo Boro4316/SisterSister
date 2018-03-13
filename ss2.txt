@@ -1,0 +1,5 @@
+This is why you Build the Library: Since you are creating a library and not an executable
+To build the class library, one can:
+On the main menu, you can click Build -> Build ProjectName 
+In the Solution Explorer, you can right-click the name of the project and click Build 
+In the Class View, you can right-click the name of the project and click Build
